@@ -1,4 +1,8 @@
 # hos-patient
+## Hastahane sistemi web sitesi 
+
+# link
+## https://hospital-syst-vue.netlify.app/
 
 ## Project setup
 ```
