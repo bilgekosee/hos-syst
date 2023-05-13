@@ -1,5 +1,5 @@
 # hos-patient
-## Hastahane sistemi web sitesi 
+## Hastahane sistemi web sitesi tasarımı
 
 # link
 ## https://hospital-syst-vue.netlify.app/
